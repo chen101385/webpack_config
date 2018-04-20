@@ -76,13 +76,13 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Versioning
 
-We use [semantic versioning](http://semver.org/). For the versions available, see the [tags on this repository](https://github.com/brycessorensen/FILL_ME_IN/tags). 
+We use [semantic versioning](http://semver.org/). For the versions available, see the [tags on this repository](https://github.com/chen101385/FILL_ME_IN/tags). 
 
 ## Authors
 
-* **Bryce Sorensen** - [Github](https://github.com/brycessorensen)
+* **Christopher Chen** - [Github](https://github.com/chen101385)
 
-See also the list of [contributors](https://github.com/brycessorensen/FILL_ME_IN/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/chen101385/FILL_ME_IN/contributors) who participated in this project.
 
 ## License
 
