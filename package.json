@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brycessorensen/FILL_ME_IN.git"
+    "url": "git+https://github.com/chen101385/FILL_ME_IN.git"
   },
   "author": "Bryce S. Sorensen",
   "license": "Unlicense",
   "bugs": {
-    "url": "https://github.com/brycessorensen/FILL_ME_IN/issues"
+    "url": "https://github.com/chen101385/FILL_ME_IN/issues"
   },
-  "homepage": "https://github.com/brycessorensen/FILL_ME_IN#readme",
+  "homepage": "https://github.com/chen101385/FILL_ME_IN#readme",
   "devDependencies": {
     "@babel/cli": "^7.0.0-beta.42",
     "@babel/core": "^7.0.0-beta.42",
